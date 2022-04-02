@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RobotWars/.vs
+/RobotWars/RobotWars/bin
+/RobotWars/RobotWars/obj
+/RobotWars/RobotWarsShared/bin
+/RobotWars/RobotWarsShared/obj
+/RobotWars/RobotWarsTest/bin
+/RobotWars/RobotWarsTest/obj
